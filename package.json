@@ -2,7 +2,7 @@
   "name": "@Bluebird2000/react-native-stepper",
   "version": "1.0.0",
   "description": "A simple react-native implementation of step indicator widget compatible with the ViewPager, ListView and Flatlist Based on @24ark react-native-step-indicator",
-  "main": "index.js",
+  "main": "stepIndicator.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
